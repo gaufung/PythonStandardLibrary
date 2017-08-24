@@ -12,7 +12,7 @@
 
 - [x] urllib.parse
 - [x] urllib.request
-- [] urllib.robotparser
+- [ ] urllib.robotparser
 - [x] base64
 - [x] http.server
 - [x] http.cookies
