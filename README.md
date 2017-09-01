@@ -24,3 +24,20 @@
 - [x] signal
 - [x] threading
 - [x] mutlitprocessing
+
+# 4 Text
+- [x] string
+- [x] textwrap
+- [x] re
+- [x] difflib
+
+# 5 Data Structures
+- [x] enum
+- [ ] collecitons
+- [x] arry
+- [x] heapq
+- [x] bisect
+- [x] queue
+- [x] struct
+- [x] copy
+- [x] pprint
