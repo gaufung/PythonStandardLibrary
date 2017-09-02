@@ -33,7 +33,12 @@
 
 # 5 Data Structures
 - [x] enum
-- [ ] collecitons
+- [x] collecitons
+  - [x] ChainMap
+  - [x] Counter
+  - [x] defaultDict
+  - [x] deque
+  - [x] namedtuple
 - [x] arry
 - [x] heapq
 - [x] bisect
