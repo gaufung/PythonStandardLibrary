@@ -46,3 +46,15 @@
 - [x] struct
 - [x] copy
 - [x] pprint
+
+# 6 Dates and Times
+- [x] time
+- [x] Datetime
+- [x] calendar
+
+# Mathematics
+- [x] decimal
+- [x] fractions
+- [x] random
+- [x] math
+- [x] statiscs
