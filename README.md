@@ -52,9 +52,20 @@
 - [x] Datetime
 - [x] calendar
 
-# Mathematics
+# 7Mathematics
 - [x] decimal
 - [x] fractions
 - [x] random
 - [x] math
 - [x] statiscs
+
+# 8 The File System
+- [x] os.path
+- [x] glob
+- [x] fnmatch
+- [x] tempfile
+- [x] shutil
+- [x] filecmp
+- [x] mmap
+- [x] codecs
+- [x] io
