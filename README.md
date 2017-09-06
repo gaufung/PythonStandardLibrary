@@ -69,3 +69,17 @@
 - [x] mmap
 - [x] codecs
 - [x] io
+
+# 9 Data Compression and Exchange
+- [x] pickle
+- [x] shelve
+- [x] dbm
+- [x] sqlite3
+- [x] csv
+
+# 10 Data Compression and Archiving
+- [x] zlib
+- [x] gzip
+- [x] bz2
+- [x] tarfile
+- [x] zipfile
