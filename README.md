@@ -52,7 +52,7 @@
 - [x] Datetime
 - [x] calendar
 
-# 7Mathematics
+# 7 Mathematics
 - [x] decimal
 - [x] fractions
 - [x] random
@@ -83,3 +83,7 @@
 - [x] bz2
 - [x] tarfile
 - [x] zipfile
+
+# 11 Cryptography
+- [x] hashlib
+- [x] hmac
