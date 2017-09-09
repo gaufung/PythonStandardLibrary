@@ -96,3 +96,31 @@
 - [x] profile
 - [x] tabnanny
 - [x] venv
+
+# 13 Runtime Feature
+- [x] site
+- [x] sys
+- [ ] os
+- [x] platform
+- [x] resource
+- [x] gc
+- [x] sysconfig
+
+# 14 Modules and Packages
+- [x] importlib
+- [x] pkgutil
+- [x] zipimport
+
+# 15 Unix-specifies Services
+- [x] pwd
+- [x] grp
+
+# 16 Internationalization and Location
+- [ ] gettext
+- [ ] locale
+
+# 17 Language Tools
+- [ ] warning
+- [ ] abc
+- [ ] dis
+- [ ] inspect
