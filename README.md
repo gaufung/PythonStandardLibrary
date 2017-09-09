@@ -87,3 +87,12 @@
 # 11 Cryptography
 - [x] hashlib
 - [x] hmac
+
+# 12 Developer Tool
+- [x] pydoc
+- [x] doctest
+- [x] unittest
+- [x] cgitb
+- [x] profile
+- [x] tabnanny
+- [x] venv
