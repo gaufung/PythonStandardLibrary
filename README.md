@@ -117,10 +117,10 @@
 
 # 16 Internationalization and Location
 - [ ] gettext
-- [ ] locale
+- [x] locale
 
 # 17 Language Tools
-- [ ] warning
+- [x] warning
 - [ ] abc
-- [ ] dis
+- [x] dis
 - [ ] inspect
